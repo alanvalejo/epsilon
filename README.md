@@ -4,6 +4,10 @@
 
 The e-neighborhood Graph or, in general, the e-graph of a data set is obtained conecting two vertices u and v if d(u, v) <= e. E-graph is vulnerable to outliers due to the fixed threshold e.
 
+**Download**
+
+* You can download the MOb software in http://www.alanvalejo.com.br/software?name=epsilon
+
 **Usage**
 
 > kNN execution
