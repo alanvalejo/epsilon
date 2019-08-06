@@ -1,4 +1,4 @@
-## E-graph (E-neighborhood Graph Construction)
+## Epsilon (or E-graph) (E-neighborhood Graph Construction)
 
 **About**
 
@@ -6,7 +6,7 @@ This is an alternative Python implementation of graph construction method e-grap
 
 **Download**
 
-* You can download the MOb software in http://www.alanvalejo.com.br/software?name=epsilon
+* You can download the Epsilon (or E-graph) software in http://www.alanvalejo.com.br/software?name=epsilon
 
 **Usage**
 
